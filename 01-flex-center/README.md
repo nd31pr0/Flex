@@ -3,3 +3,4 @@ This is a basic exercise requiring that a div be centered.
 
 
 # My Output
+![Alt text](outcome.png)
