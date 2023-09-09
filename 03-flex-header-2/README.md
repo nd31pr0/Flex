@@ -6,4 +6,4 @@ For this one you will probably need to edit the HTML a little bit. Often with fl
 Just like you did in the 02-flex-header exercise, you'll be nesting flex containers inside each other.
 
 ## My Output
-
+![Alt text](output.png)
