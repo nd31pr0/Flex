@@ -10,8 +10,19 @@ body {
   .title {
     font-size: 36px;
     font-weight: 900;
+    text-align: center;
   }
-  
+  .container {
+    display: flex;
+    justify-content: center;
+    margin: 25px 200px;
+  }
+  .content1 {
+    display: block;
+  }
+  .text {
+    text-align: center;
+  }
   /* do not edit this footer */
   .footer {
     position: fixed;
@@ -24,3 +35,11 @@ body {
     justify-content: center;
     background: #eee;
   }
+.image {
+    /* padding-left: 40px; */
+    width: auto;
+}
+.img-cont {
+    display: flex;
+    justify-content: center;
+}
