@@ -58,6 +58,7 @@ input {
     justify-content: center;
     align-items: center;
     padding-top: 150px;
+    flex: 1;
 }
 .footer {
   position: fixed;
